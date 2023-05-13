@@ -1,7 +1,7 @@
 - name: my_custom_rules
   type: rulesfile
   registry: ghcr.io
-  repository: an1245/falco_rules/my-falco-rules:0.1.0 
+  repository: an1245/falco_rules/my-falco-rules
   description: My Custom Falco Rules
   home: https://github.com/an1245/falco_rules/my_custom_rules.yaml
   keywords:
