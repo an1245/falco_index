@@ -1,9 +1,9 @@
-- name: my_custom_rules
+- name: myfalco-rules
   type: rulesfile
   registry: ghcr.io
   repository: an1245/falco_rules/myfalco-rules
-  description: My Custom Falco Rules
-  home: https://github.com/an1245/falco_rules/my_custom_rules.yaml
+  description: My Falco Rules
+  home: https://github.com/an1245/falco_rules/myfalco-rules.yaml
   keywords:
     - falco
   license: Apache-2.0
@@ -11,4 +11,4 @@
     - email: an1245
       name: an1245
   sources:
-    - https://github.com/an1245/falco_rules/my_custom_rules.yaml
+    - https://github.com/an1245/falco_rules/myfalco-rules.yaml
